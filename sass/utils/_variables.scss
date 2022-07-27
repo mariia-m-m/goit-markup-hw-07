@@ -14,8 +14,8 @@ $color-icons-not-hover: #AFB1B8;
 body {
     background-color: $primary-background-color;
     color: $primary-text-colour;
-    font-family: Roboto, sans-serif;
     letter-spacing: 0.03em;
+    font-family:'Roboto', sans-serif;
 }
 
 a {
@@ -39,6 +39,7 @@ a {
     color: $primary-text-colour;
     padding-top: 94px;
     padding-bottom: 94px;
+
 }
 
 .section-title {
