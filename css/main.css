@@ -1,7 +1,7 @@
 body {
   background-color: #ffffff;
   color: #212121;
-  font-family: Roboto, sans-serif;
+  font-family: Roboto;
   letter-spacing: 0.03em;
 }
 
@@ -97,12 +97,6 @@ Sections
 1. Remove the margin in all browsers.
 2. Improve consistency of default fonts in all browsers. (https://github.com/sindresorhus/modern-normalize/issues/3)
 */
-body {
-  margin: 0;
-  /* 1 */
-  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
-  /* 2 */
-}
 
 /*
 Grouping content
